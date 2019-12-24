@@ -16,5 +16,5 @@ False negative Capture Rate : 42/07=0.082
 False positive Capture Rate: 542/1860=0.291 
 Accuracy 57% (approx.) 
 For testing purpose the classifiers were run through the 24X24 sub image window and a union of the windows with high probability of face were taken into account generating the following results.  
-Following are some of the images form test data : 
+
  
