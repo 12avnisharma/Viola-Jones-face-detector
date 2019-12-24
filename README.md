@@ -17,7 +17,7 @@ False positive Capture Rate: 542/1860=0.291
 Accuracy 57% (approx.) 
 For testing purpose the classifiers were run through the 24X24 sub image window and a union of the windows with high probability of face were taken into account generating the following results.  
 
- Acknoledgements:
+ Acknowledgments:
  1) Authors: Chee Yi Ong, Stephen Peyton (this code has been taken from the github repo:https://github.com/cheeyi/matlab-viola-jones and       modified accordingly)
  2) Michigan state University, East Lansing
  3) Viola, Paul, and Michael J. Jones. “Robust real-time face detection.” International journal of computer vision 57.2 (2004): 137-154.
